@@ -1,0 +1,10 @@
+D:\CSharp\方块\方块\bin\Debug\方块.exe.config
+D:\CSharp\方块\方块\bin\Debug\方块.exe
+D:\CSharp\方块\方块\bin\Debug\方块.pdb
+D:\CSharp\方块\方块\obj\Debug\方块.csprojAssemblyReference.cache
+D:\CSharp\方块\方块\obj\Debug\方块.Form1.resources
+D:\CSharp\方块\方块\obj\Debug\方块.Properties.Resources.resources
+D:\CSharp\方块\方块\obj\Debug\方块.csproj.GenerateResource.cache
+D:\CSharp\方块\方块\obj\Debug\方块.csproj.CoreCompileInputs.cache
+D:\CSharp\方块\方块\obj\Debug\方块.exe
+D:\CSharp\方块\方块\obj\Debug\方块.pdb
